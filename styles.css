@@ -1,0 +1,45 @@
+/* add your CSS here */
+body {
+  font: normal;
+  color: rgb(0, 0, 0);
+  background: rgb(255, 255, 255);
+}
+
+li{list-style: none;}
+
+.text-italic {
+    font-style: italic;
+  }
+
+.card {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #808080;
+  }
+
+.spacing {
+    margin: 0;
+    padding: 10px;
+    font: normal;
+    border: 1px solid #808080;
+    font-size: normal;
+  }
+
+.card-details {
+    padding: 0;
+    list-style: none;
+  }
+
+  .card-details .info{
+      font-style: normal;
+    }
+
+.card-details .title {
+    font-weight: bold;
+    font-style: normal;
+  }
+
+.title_border{
+    margin: 0;
+    font: normal;
+}
